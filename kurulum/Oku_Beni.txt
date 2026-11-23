@@ -1,0 +1,30 @@
+﻿FORZA HORIZON 6 — TÜRKÇE DUBLAJ
+================================
+
+Bu paket oyundaki karakter, DJ ve navigasyon seslerini Türkçe dublajla değiştirir.
+Steam ve Xbox / Microsoft Store (Game Pass) sürümleriyle çalışır.
+
+KURULUM
+1. Zip'in TAMAMINI bir klasöre çıkarın (Kurulum.exe ile "Veri" klasörü yan yana olmalı).
+   GitHub'dan "Bolum1, Bolum2..." diye parça parça indirdiyseniz BÜTÜN parçaları
+   AYNI klasöre çıkarın; hepsi aynı "FH6_Turkce_Dublaj_Kurulum" klasöründe birleşir.
+2. Oyunu kapatın.
+3. Kurulum.exe'yi çalıştırın (yönetici izni ister).
+4. Listede oyununuz görünür; seçip "Türkçe Dublajı Kur" düğmesine basın.
+   Görünmezse "Oyun klasörünü kendim seçeyim" ile oyunun klasörünü gösterin:
+     Steam:  ...\steamapps\common\ForzaHorizon6
+     Xbox:   ...\XboxGames\Forza Horizon 6
+
+XBOX / GAME PASS KULLANANLAR
+Dosyalara yazılamazsa: Xbox uygulamasında oyuna sağ tıklayın > Yönet > Dosyalar >
+"Gelişmiş yönetim özelliklerini etkinleştir" seçeneğini açıp kurulumu tekrar çalıştırın.
+
+KALDIRMA
+Kurulum.exe'yi açın, oyunu seçin ve "Kaldır"a basın. Orijinal İngilizce sesler geri gelir.
+(Orijinaller oyun klasöründeki TR_Dublaj_Yedek klasöründe saklanır; bu klasörü silmeyin.)
+
+OYUN GÜNCELLENİRSE
+Güncelleme ya da Steam "dosya bütünlüğünü doğrula" sesleri İngilizceye döndürebilir.
+Kurulum.exe'yi tekrar çalıştırıp "Türkçe Dublajı Kur" demeniz yeterli.
+
+Not: Bu resmi olmayan, hayran yapımı bir moddur. Seslendirme yapay zekâ ile üretilmiştir.
