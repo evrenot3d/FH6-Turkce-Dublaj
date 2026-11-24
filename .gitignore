@@ -1,0 +1,11 @@
+target/
+modeller/
+bin/
+calisma/
+sonuc/
+vgmstream/
+*.log
+*.bank
+*.wav
+*.exe
+*.zip
