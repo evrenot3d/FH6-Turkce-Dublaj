@@ -3,7 +3,11 @@
 Forza Horizon 6'daki İngilizce konuşmaları **Türkçe dublajla** değiştiren hayran yapımı bir mod.
 Karakterler, 8 radyo DJ'i ve navigasyon sesi Türkçe konuşur. Steam ve Xbox / Game Pass sürümleriyle çalışır.
 
-🎬 **Tanıtım videosu ve indirme:** [Releases](../../releases) sayfasında.
+
+
+https://github.com/user-attachments/assets/cbd6e68f-bd32-4711-b2b2-43b2862e450f
+
+
 
 > Resmi değildir. Seslendirme tamamen yapay zekâ ile üretilmiştir. Forza Horizon 6 ve oyun içeriği Playground Games / Microsoft'a aittir.
 
